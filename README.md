@@ -32,6 +32,5 @@ The **Personal Finance Tracker** is a simple yet powerful web application built 
 3. View updated financial summary and transaction history.
 4. Analyze spending trends using interactive charts.
 
----
-**Developed by Parth Delvadiya**
-
+## Author
+**Parth Delvadiya**  
